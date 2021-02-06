@@ -24,3 +24,5 @@ You will need google classroom api credential file by following the step at http
 You must authorize google drive by adding it to your api project at this link https://console.developers.google.com/
 
 Also pip3 install python-slugify
+
+** Note for YouTube Videos to download make sure to run, on Mac /Application/Python3.7/Update Shell Profile.command and /Application/Python3.7Install Certificates.command otherwise you will run into SSL Errors. **
